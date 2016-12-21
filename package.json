@@ -1,0 +1,22 @@
+{
+  "name": "samplemod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romarSanJuan/samplemod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romarSanJuan/samplemod/issues"
+  },
+  "homepage": "https://github.com/romarSanJuan/samplemod#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
